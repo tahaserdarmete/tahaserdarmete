@@ -1,6 +1,6 @@
 # 💫 About Me:
   Hi 👋 I'm Taha Serdar, <br><br>
-A passionate and ambitious Full Stack & Mobile Developer.<br><br>🌱 Constantly Evolving: I am always learning and growing, whether it's mastering new frameworks, refining my coding practices, or exploring innovative tools in the tech industry.<br><br>🤭 I love learning new things and software
+I'm a passionate and ambitious Full Stack & Mobile Developer.<br><br>🌱 Constantly Evolving: I am always learning and growing, whether it's mastering new frameworks, refining my coding practices, or exploring innovative tools in the tech industry.<br><br>🤭 I love learning new things and software
 
 
 # 💻 Tech Stack:
